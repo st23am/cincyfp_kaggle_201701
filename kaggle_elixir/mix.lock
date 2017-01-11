@@ -1,0 +1,4 @@
+%{"csv": {:hex, :csv, "1.4.4", "992f2e1418849a326fd1d9287801fa2d86091db4f9611f60781da6d236f64cd4", [:mix], [{:parallel_stream, "~> 1.0.4", [hex: :parallel_stream, optional: false]}]},
+  "neural_net": {:hex, :neural_net, "1.0.0", "37c294efb0d388f060e58bd1edf41b79d18b295280bef52479d5a383b9ff7c1f", [:mix], []},
+  "neural_network": {:hex, :neural_network, "0.1.3", "a5dd1dc968e5473a991e6d655def4917c7759bab593a504a425b5bb853f39f02", [:mix], []},
+  "parallel_stream": {:hex, :parallel_stream, "1.0.5", "4c78d3e675f9eff885cbe252c89a8fc1d2fb803c0d03a914281e587834e09431", [:mix], []}}
